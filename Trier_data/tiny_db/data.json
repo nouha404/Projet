@@ -1,0 +1,17 @@
+{
+    "Users": {
+        "1": {
+            "name": "Teach",
+            "grade": "Yonko",
+            "Xp": 100
+        },
+        "2": {
+            "name": "Akainu",
+            "grade": "Amirale"
+        },
+        "3": {
+            "name": "Kizaru",
+            "grade": "Amiral"
+        }
+    }
+}
